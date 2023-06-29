@@ -23,8 +23,6 @@ image:
   src: https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240
   alt: carrera en programación
 ---
-`La programación es una habilidad cada vez más demandada en el mundo laboral actual. Si estás interesado en iniciar tu carrera en programación, estás en el lugar correcto. En esta sección, te brindaremos algunos consejos para principiantes que te ayudarán a dar tus primeros pasos en este emocionante campo.`
-
 ### 1. Define tus objetivos y motivación
 
 Antes de comenzar a aprender a programar, es importante que tengas claros tus objetivos y motivaciones. ¿Qué te impulsa a querer aprender a programar? ¿Quieres convertirte en un desarrollador de software profesional, o simplemente aprender a automatizar tareas en tu trabajo actual? Definir tus metas te ayudará a mantener la motivación durante todo el proceso de aprendizaje.
