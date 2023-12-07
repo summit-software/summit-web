@@ -3,8 +3,8 @@ draft: false
 name: Conocenos
 type: hourly
 price:
-  current: 20
-  previous: 25
+  current: 50
+  previous: 55
 currency: "$"
 popular: false
 description: "Podemos apoyarte con:"

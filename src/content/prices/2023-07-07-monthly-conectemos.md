@@ -3,8 +3,8 @@ draft: false
 name: Conectemos
 type: monthly
 price:
-  current: 1500
-  previous: 2000
+  current: 800
+  previous: 1200
 currency: "$"
 popular: false
 description: "Te ayudamos con el desarroyo de tus aplicaciones. Además te proveemos de:"

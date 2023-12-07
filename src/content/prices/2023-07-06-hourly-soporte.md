@@ -3,7 +3,7 @@ draft: false
 name: Soporte Avanzado
 type: hourly
 price:
-  current: 25
+  current: 55
   previous: ""
 currency: "$"
 popular: true
